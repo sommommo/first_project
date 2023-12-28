@@ -1,4 +1,4 @@
-#include <conio.h>
+//#include <conio.h>
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
