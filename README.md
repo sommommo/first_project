@@ -7,7 +7,7 @@
 
 使用linux terminal 進行觀看
 
-windows cmd 列印書度過慢  導致立方體 輸出時間慢
+windows cmd 列印輸出過慢  導致立方體 輸出時間慢
 linux terminal 較快 可完整顯示旋轉立方體
 
 若要使用windows 觀看 請將程式碼中以下註解解除
